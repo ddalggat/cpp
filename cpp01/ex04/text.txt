@@ -1,0 +1,3 @@
+These two parameters are used when the list is used to erase elements from a range. The parameter first refers to the iterator pointing to the first
+element in the range and the parameter last refers to the iterator pointing to the last element in the range which is needed to be erased. This erases all the
+elements in the range including the element pointed by the iterator first but excluding the element pointed by the iterator last.
